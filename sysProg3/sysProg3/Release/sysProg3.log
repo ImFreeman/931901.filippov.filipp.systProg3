@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(141,39): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(142,46): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(142,27): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(152,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(152,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(153,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(153,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(163,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(163,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(164,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(164,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(174,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(174,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(175,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(175,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(185,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(185,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(186,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(186,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\source\repos\sysProg3\sysProg3\Source.cpp(97,17): warning C4101: apt: неиспользованная локальная переменная
+  Создание кода
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  sysProg3.vcxproj -> C:\Users\imawa\source\repos\sysProg3\Release\sysProg3.exe
